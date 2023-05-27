@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KetanDhopeshwarkar/react-native-read-sms",
-    "baseUrl": "https://github.com/KetanDhopeshwarkar/react-native-read-sms"
+    "url": "git+https://github.com/BigDevTemy/react-native-read-sms",
+    "baseUrl": "https://github.com/BigDevTemy/react-native-read-sms"
   },
   "keywords": [
     "android",
@@ -19,7 +19,7 @@
     "read-sms",
     "react-native"
   ],
-  "author": "KSquad Pvt. Ltd. <ketan@ksquad.com>",
+  "author": "odewumit",
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "peerDependencies": {
@@ -31,7 +31,7 @@
     "react-native": "^0.61.5"
   },
   "bugs": {
-    "url": "https://github.com/KetanDhopeshwarkar/react-native-read-sms/issues"
+    "url": "https://github.com/BigDevTemy/react-native-read-sms/issues"
   },
-  "homepage": "https://github.com/KetanDhopeshwarkar/react-native-read-sms#readme"
+  "homepage": "https://github.com/BigDevTemy/react-native-read-sms#readme"
 }
